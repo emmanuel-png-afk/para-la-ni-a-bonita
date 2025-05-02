@@ -36,11 +36,8 @@
 </head>
 <body>
   <div class="audio">
-    <audio controls autoplay>
-      <source src="https://www.youtube.com/watch?v=c3aN6Tv4WLA" type="audio/mpeg">
-      Tu navegador no soporta audio.
-    </audio>
-  </div>
+    
+      <source src="https://www.youtube.com/watch?v=c3aN6Tv4WLA"
 
   <!-- Imágenes -->
   <div class="page"><img src="img/01.jpg" /></div>
